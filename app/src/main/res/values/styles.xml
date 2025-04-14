@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <style name="Theme.SplashScreen" parent="Theme.Knowledge">
+        <!-- Customize attributes for splash screen theme here -->
+        <item name="android:statusBarColor">#FF2196F3</item>
+    </style>
+</resources>
